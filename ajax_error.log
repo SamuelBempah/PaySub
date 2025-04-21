@@ -1,0 +1,1 @@
+PHP Error [8]: session_start(): Ignoring session_start() because a session is already active in /home/vol5_2/infinityfree.com/if0_38722729/htdocs/support.php:19

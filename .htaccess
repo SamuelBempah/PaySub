@@ -1,0 +1,21 @@
+RewriteEngine On
+
+# HTTPS redirection
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:CF-Visitor} !{"scheme":"https"}
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Custom 404 page
+ErrorDocument 404 /404.html
+
+# Prevent direct .php access, except for support.php
+RewriteCond %{THE_REQUEST} \.php[\s?] [NC]
+RewriteCond %{REQUEST_URI} !^/support\.php$ [NC]
+RewriteRule ^ /404.html [L,R=301]
+
+# Rewrite extensionless URLs to .php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]

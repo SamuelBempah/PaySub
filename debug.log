@@ -1,0 +1,54 @@
+2025-04-12 04:24:40 - update_status.php started
+2025-04-12 04:24:40 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:24:40 - Fetching statuses
+2025-04-12 04:25:10 - update_status.php started
+2025-04-12 04:25:10 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:25:10 - Processing POST
+2025-04-12 04:25:10 - Updated ID 1
+2025-04-12 04:25:10 - Updated ID 2
+2025-04-12 04:25:10 - Updated ID 3
+2025-04-12 04:25:10 - Updated ID 4
+2025-04-12 04:25:10 - Updated ID 5
+2025-04-12 04:25:10 - Updated ID 6
+2025-04-12 04:25:10 - Updated ID 7
+2025-04-12 04:25:10 - Fetching statuses
+2025-04-12 04:25:35 - update_status.php started
+2025-04-12 04:25:35 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:25:35 - Fetching statuses
+2025-04-12 04:26:20 - update_status.php started
+2025-04-12 04:26:20 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:26:20 - Processing POST
+2025-04-12 04:26:20 - Updated ID 1
+2025-04-12 04:26:20 - Updated ID 2
+2025-04-12 04:26:20 - Updated ID 3
+2025-04-12 04:26:20 - Updated ID 4
+2025-04-12 04:26:20 - Updated ID 5
+2025-04-12 04:26:20 - Updated ID 6
+2025-04-12 04:26:20 - Updated ID 7
+2025-04-12 04:26:20 - Fetching statuses
+Audio file path: includes/chat.mp3
+Silent audio file missing: includes/silent.mp3

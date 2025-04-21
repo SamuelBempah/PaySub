@@ -1,0 +1,526 @@
+2025-04-12 04:17:35 - update_status.php started
+2025-04-12 04:18:24 - update_status.php started
+2025-04-12 04:20:47 - update_status.php started
+2025-04-12 04:20:47 - Unauthorized access
+2025-04-12 04:21:26 - update_status.php started
+2025-04-12 04:21:26 - Unauthorized access
+2025-04-12 04:23:53 - update_status.php started
+2025-04-12 04:23:53 - Unauthorized access
+2025-04-12 04:26:46 - update_status.php started
+2025-04-12 04:26:46 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:26:46 - Fetching statuses
+2025-04-12 04:27:59 - update_status.php started
+2025-04-12 04:27:59 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:27:59 - Processing POST
+2025-04-12 04:27:59 - Updated ID 1
+2025-04-12 04:27:59 - Updated ID 2
+2025-04-12 04:27:59 - Updated ID 3
+2025-04-12 04:27:59 - Updated ID 4
+2025-04-12 04:27:59 - Updated ID 5
+2025-04-12 04:27:59 - Updated ID 6
+2025-04-12 04:27:59 - Updated ID 7
+2025-04-12 04:27:59 - Fetching statuses
+2025-04-12 04:28:23 - update_status.php started
+2025-04-12 04:28:23 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:28:23 - Fetching statuses
+2025-04-12 04:29:08 - update_status.php started
+2025-04-12 04:29:08 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:29:08 - Processing POST
+2025-04-12 04:29:08 - Updated ID 1
+2025-04-12 04:29:08 - Updated ID 2
+2025-04-12 04:29:08 - Updated ID 3
+2025-04-12 04:29:08 - Updated ID 4
+2025-04-12 04:29:08 - Updated ID 5
+2025-04-12 04:29:08 - Updated ID 6
+2025-04-12 04:29:08 - Updated ID 7
+2025-04-12 04:29:08 - Fetching statuses
+2025-04-12 04:32:39 - update_status.php started
+2025-04-12 04:32:39 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:32:39 - Processing POST
+2025-04-12 04:32:39 - Updated ID 1
+2025-04-12 04:32:39 - Updated ID 2
+2025-04-12 04:32:39 - Updated ID 3
+2025-04-12 04:32:39 - Updated ID 4
+2025-04-12 04:32:39 - Updated ID 5
+2025-04-12 04:32:39 - Updated ID 6
+2025-04-12 04:32:39 - Updated ID 7
+2025-04-12 04:32:39 - Fetching statuses
+2025-04-12 04:33:16 - update_status.php started
+2025-04-12 04:33:16 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:33:16 - Fetching statuses
+2025-04-12 04:33:37 - update_status.php started
+2025-04-12 04:33:37 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 04:33:37 - Processing POST
+2025-04-12 04:33:37 - Updated ID 1
+2025-04-12 04:33:37 - Updated ID 2
+2025-04-12 04:33:37 - Updated ID 3
+2025-04-12 04:33:37 - Updated ID 4
+2025-04-12 04:33:37 - Updated ID 5
+2025-04-12 04:33:37 - Updated ID 6
+2025-04-12 04:33:37 - Updated ID 7
+2025-04-12 04:33:37 - Fetching statuses
+2025-04-12 07:44:32 - update_status.php started
+2025-04-12 07:44:32 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 07:44:32 - Fetching statuses
+2025-04-12 07:45:52 - update_status.php started
+2025-04-12 07:45:52 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 07:45:52 - Processing POST
+2025-04-12 07:45:52 - Updated ID 1
+2025-04-12 07:45:52 - Updated ID 2
+2025-04-12 07:45:52 - Updated ID 3
+2025-04-12 07:45:52 - Updated ID 4
+2025-04-12 07:45:52 - Updated ID 5
+2025-04-12 07:45:52 - Updated ID 6
+2025-04-12 07:45:52 - Updated ID 7
+2025-04-12 07:45:52 - Fetching statuses
+2025-04-12 07:46:30 - update_status.php started
+2025-04-12 07:46:30 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 07:46:30 - Processing POST
+2025-04-12 07:46:30 - Updated ID 1
+2025-04-12 07:46:30 - Updated ID 2
+2025-04-12 07:46:30 - Updated ID 3
+2025-04-12 07:46:30 - Updated ID 4
+2025-04-12 07:46:30 - Updated ID 5
+2025-04-12 07:46:30 - Updated ID 6
+2025-04-12 07:46:30 - Updated ID 7
+2025-04-12 07:46:30 - Fetching statuses
+2025-04-12 07:46:46 - update_status.php started
+2025-04-12 07:46:46 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 07:46:46 - Processing POST
+2025-04-12 07:46:46 - Updated ID 1
+2025-04-12 07:46:46 - Updated ID 2
+2025-04-12 07:46:46 - Updated ID 3
+2025-04-12 07:46:46 - Updated ID 4
+2025-04-12 07:46:46 - Updated ID 5
+2025-04-12 07:46:46 - Updated ID 6
+2025-04-12 07:46:46 - Updated ID 7
+2025-04-12 07:46:46 - Fetching statuses
+2025-04-12 07:47:36 - update_status.php started
+2025-04-12 07:47:36 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 07:47:36 - Processing POST
+2025-04-12 07:47:36 - Updated ID 1
+2025-04-12 07:47:36 - Updated ID 2
+2025-04-12 07:47:36 - Updated ID 3
+2025-04-12 07:47:36 - Updated ID 4
+2025-04-12 07:47:36 - Updated ID 5
+2025-04-12 07:47:36 - Updated ID 6
+2025-04-12 07:47:36 - Updated ID 7
+2025-04-12 07:47:36 - Fetching statuses
+2025-04-12 07:47:53 - update_status.php started
+2025-04-12 07:47:53 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 07:47:53 - Fetching statuses
+2025-04-12 10:43:01 - update_status.php started
+2025-04-12 10:43:01 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 10:43:01 - Fetching statuses
+2025-04-12 10:43:49 - update_status.php started
+2025-04-12 10:43:49 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 10:43:49 - Processing POST
+2025-04-12 10:43:49 - Updated ID 1
+2025-04-12 10:43:49 - Updated ID 2
+2025-04-12 10:43:49 - Updated ID 3
+2025-04-12 10:43:49 - Updated ID 4
+2025-04-12 10:43:49 - Updated ID 5
+2025-04-12 10:43:49 - Updated ID 6
+2025-04-12 10:43:49 - Updated ID 7
+2025-04-12 10:43:49 - Fetching statuses
+2025-04-12 10:53:20 - update_status.php started
+2025-04-12 10:53:20 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 10:53:20 - Fetching statuses
+2025-04-12 10:53:50 - update_status.php started
+2025-04-12 10:53:50 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 10:53:50 - Processing POST
+2025-04-12 10:53:50 - Fetched 8 users for SMS
+2025-04-12 10:53:50 - Updated ID 1
+2025-04-12 10:53:51 - SMS sent to 233559118581 for AutoPayla 1
+2025-04-12 10:53:51 - SMS sent to 233559118581 for AutoPayla 1
+2025-04-12 10:53:52 - SMS sent to 233248113398 for AutoPayla 1
+2025-04-12 10:53:52 - SMS sent to 233551309491 for AutoPayla 1
+2025-04-12 10:53:52 - SMS sent to 233598061030 for AutoPayla 1
+2025-04-12 10:53:53 - SMS sent to 233553876442 for AutoPayla 1
+2025-04-12 10:53:53 - SMS sent to 233592314356 for AutoPayla 1
+2025-04-12 10:53:53 - SMS sent to 233241375969 for AutoPayla 1
+2025-04-12 10:53:53 - Updated ID 2
+2025-04-12 10:53:54 - SMS sent to 233559118581 for Backend
+2025-04-12 10:53:54 - SMS sent to 233559118581 for Backend
+2025-04-12 10:53:54 - SMS sent to 233248113398 for Backend
+2025-04-12 10:53:55 - SMS sent to 233551309491 for Backend
+2025-04-12 10:53:55 - SMS sent to 233598061030 for Backend
+2025-04-12 10:53:56 - SMS sent to 233553876442 for Backend
+2025-04-12 10:53:56 - SMS sent to 233592314356 for Backend
+2025-04-12 10:53:56 - SMS sent to 233241375969 for Backend
+2025-04-12 10:53:56 - Updated ID 3
+2025-04-12 10:53:57 - SMS sent to 233559118581 for Payment Methods
+2025-04-12 10:53:57 - SMS sent to 233559118581 for Payment Methods
+2025-04-12 10:53:57 - SMS sent to 233248113398 for Payment Methods
+2025-04-12 10:53:58 - SMS sent to 233551309491 for Payment Methods
+2025-04-12 10:53:58 - SMS sent to 233598061030 for Payment Methods
+2025-04-12 10:53:58 - SMS sent to 233553876442 for Payment Methods
+2025-04-12 10:53:59 - SMS sent to 233592314356 for Payment Methods
+2025-04-12 10:53:59 - SMS sent to 233241375969 for Payment Methods
+2025-04-12 10:53:59 - Updated ID 4
+2025-04-12 10:54:00 - SMS sent to 233559118581 for SMS Service
+2025-04-12 10:54:00 - SMS sent to 233559118581 for SMS Service
+2025-04-12 10:54:01 - SMS sent to 233248113398 for SMS Service
+2025-04-12 10:54:01 - SMS sent to 233551309491 for SMS Service
+2025-04-12 10:54:01 - SMS sent to 233598061030 for SMS Service
+2025-04-12 10:54:02 - SMS sent to 233553876442 for SMS Service
+2025-04-12 10:54:02 - SMS sent to 233592314356 for SMS Service
+2025-04-12 10:54:03 - SMS sent to 233241375969 for SMS Service
+2025-04-12 10:54:03 - Updated ID 5
+2025-04-12 10:54:03 - SMS sent to 233559118581 for API Service
+2025-04-12 10:54:03 - SMS sent to 233559118581 for API Service
+2025-04-12 10:54:04 - SMS sent to 233248113398 for API Service
+2025-04-12 10:54:04 - SMS sent to 233551309491 for API Service
+2025-04-12 10:54:04 - SMS sent to 233598061030 for API Service
+2025-04-12 10:54:05 - SMS sent to 233553876442 for API Service
+2025-04-12 10:54:05 - SMS sent to 233592314356 for API Service
+2025-04-12 10:54:05 - SMS sent to 233241375969 for API Service
+2025-04-12 10:54:05 - Updated ID 6
+2025-04-12 10:54:06 - SMS sent to 233559118581 for Website
+2025-04-12 10:54:06 - SMS sent to 233559118581 for Website
+2025-04-12 10:54:07 - SMS sent to 233248113398 for Website
+2025-04-12 10:54:07 - SMS sent to 233551309491 for Website
+2025-04-12 10:54:07 - SMS sent to 233598061030 for Website
+2025-04-12 10:54:08 - SMS sent to 233553876442 for Website
+2025-04-12 10:54:08 - SMS sent to 233592314356 for Website
+2025-04-12 10:54:08 - SMS sent to 233241375969 for Website
+2025-04-12 10:54:08 - Updated ID 7
+2025-04-12 10:54:09 - SMS sent to 233559118581 for Database Cache
+2025-04-12 10:54:09 - SMS sent to 233559118581 for Database Cache
+2025-04-12 10:54:09 - SMS sent to 233248113398 for Database Cache
+2025-04-12 10:54:10 - SMS sent to 233551309491 for Database Cache
+2025-04-12 10:54:10 - SMS sent to 233598061030 for Database Cache
+2025-04-12 10:54:11 - SMS sent to 233553876442 for Database Cache
+2025-04-12 10:54:11 - SMS sent to 233592314356 for Database Cache
+2025-04-12 10:54:11 - SMS sent to 233241375969 for Database Cache
+2025-04-12 10:54:11 - Fetching statuses
+2025-04-12 10:56:49 - update_status.php started
+2025-04-12 10:56:49 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 10:56:49 - Fetching statuses
+2025-04-12 10:56:55 - update_status.php started
+2025-04-12 10:56:55 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 10:56:55 - Processing POST
+2025-04-12 10:56:55 - Fetched 8 users for SMS
+2025-04-12 10:56:55 - Updated ID 1 to Online
+2025-04-12 10:56:55 - SMS sent to 233559118581 for AutoPayla 1
+2025-04-12 10:56:56 - SMS sent to 233559118581 for AutoPayla 1
+2025-04-12 10:56:56 - SMS sent to 233248113398 for AutoPayla 1
+2025-04-12 10:56:56 - SMS sent to 233551309491 for AutoPayla 1
+2025-04-12 10:56:57 - SMS sent to 233598061030 for AutoPayla 1
+2025-04-12 10:56:57 - SMS sent to 233553876442 for AutoPayla 1
+2025-04-12 10:56:58 - SMS sent to 233592314356 for AutoPayla 1
+2025-04-12 10:56:58 - SMS sent to 233241375969 for AutoPayla 1
+2025-04-12 10:56:58 - No status change for ID 2 (Backend)
+2025-04-12 10:56:58 - No status change for ID 3 (Payment Methods)
+2025-04-12 10:56:58 - No status change for ID 4 (SMS Service)
+2025-04-12 10:56:58 - No status change for ID 5 (API Service)
+2025-04-12 10:56:58 - No status change for ID 6 (Website)
+2025-04-12 10:56:58 - No status change for ID 7 (Database Cache)
+2025-04-12 10:56:58 - Fetching statuses
+2025-04-12 10:58:47 - update_status.php started
+2025-04-12 10:58:47 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 10:58:47 - Processing POST
+2025-04-12 10:58:47 - Fetched 8 users for SMS
+2025-04-12 10:58:47 - No status change for ID 1 (AutoPayla 1)
+2025-04-12 10:58:47 - No status change for ID 2 (Backend)
+2025-04-12 10:58:47 - No status change for ID 3 (Payment Methods)
+2025-04-12 10:58:47 - No status change for ID 4 (SMS Service)
+2025-04-12 10:58:47 - No status change for ID 5 (API Service)
+2025-04-12 10:58:47 - No status change for ID 6 (Website)
+2025-04-12 10:58:47 - No status change for ID 7 (Database Cache)
+2025-04-12 10:58:47 - Fetching statuses
+2025-04-12 10:59:12 - update_status.php started
+2025-04-12 10:59:12 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-12 10:59:12 - Processing POST
+2025-04-12 10:59:12 - Fetched 8 users for SMS
+2025-04-12 10:59:12 - No status change for ID 1 (AutoPayla 1)
+2025-04-12 10:59:12 - No status change for ID 2 (Backend)
+2025-04-12 10:59:12 - No status change for ID 3 (Payment Methods)
+2025-04-12 10:59:12 - No status change for ID 4 (SMS Service)
+2025-04-12 10:59:12 - No status change for ID 5 (API Service)
+2025-04-12 10:59:12 - No status change for ID 6 (Website)
+2025-04-12 10:59:12 - No status change for ID 7 (Database Cache)
+2025-04-12 10:59:12 - Fetching statuses
+2025-04-13 06:20:51 - update_status.php started
+2025-04-13 06:20:51 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-13 06:20:51 - Fetching statuses
+2025-04-13 06:21:37 - update_status.php started
+2025-04-13 06:21:37 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-13 06:21:37 - Processing POST
+2025-04-13 06:21:37 - Fetched 8 users for SMS
+2025-04-13 06:21:37 - No status change for ID 1 (AutoPayla 1)
+2025-04-13 06:21:37 - No status change for ID 2 (Backend)
+2025-04-13 06:21:37 - No status change for ID 3 (Payment Methods)
+2025-04-13 06:21:37 - No status change for ID 4 (SMS Service)
+2025-04-13 06:21:37 - No status change for ID 5 (API Service)
+2025-04-13 06:21:37 - No status change for ID 6 (Website)
+2025-04-13 06:21:37 - Updated ID 7 to Degraded
+2025-04-13 06:21:37 - SMS sent to 233559118581 for Database Cache
+2025-04-13 06:21:37 - SMS sent to 233559118581 for Database Cache
+2025-04-13 06:21:38 - SMS sent to 233248113398 for Database Cache
+2025-04-13 06:21:38 - SMS sent to 233551309491 for Database Cache
+2025-04-13 06:21:39 - SMS sent to 233598061030 for Database Cache
+2025-04-13 06:21:39 - SMS sent to 233553876442 for Database Cache
+2025-04-13 06:21:39 - SMS sent to 233592314356 for Database Cache
+2025-04-13 06:21:40 - SMS sent to 233241375969 for Database Cache
+2025-04-13 06:21:40 - Fetching statuses
+2025-04-13 09:49:42 - update_status.php started
+2025-04-13 09:49:42 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-13 09:49:42 - Fetching statuses
+2025-04-13 09:50:39 - update_status.php started
+2025-04-13 09:50:39 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-13 09:50:39 - Processing POST
+2025-04-13 09:50:39 - Fetched 8 users for SMS
+2025-04-13 09:50:39 - No status change for ID 1 (AutoPayla 1)
+2025-04-13 09:50:39 - No status change for ID 2 (Backend)
+2025-04-13 09:50:39 - No status change for ID 3 (Payment Methods)
+2025-04-13 09:50:39 - No status change for ID 4 (SMS Service)
+2025-04-13 09:50:39 - No status change for ID 5 (API Service)
+2025-04-13 09:50:39 - No status change for ID 6 (Website)
+2025-04-13 09:50:39 - Updated ID 7 to Online
+2025-04-13 09:50:40 - SMS sent to 233559118581 for Database Cache
+2025-04-13 09:50:40 - SMS sent to 233559118581 for Database Cache
+2025-04-13 09:50:41 - SMS sent to 233248113398 for Database Cache
+2025-04-13 09:50:41 - SMS sent to 233551309491 for Database Cache
+2025-04-13 09:50:41 - SMS sent to 233598061030 for Database Cache
+2025-04-13 09:50:42 - SMS sent to 233553876442 for Database Cache
+2025-04-13 09:50:42 - SMS sent to 233592314356 for Database Cache
+2025-04-13 09:50:42 - SMS sent to 233241375969 for Database Cache
+2025-04-13 09:50:42 - Fetching statuses
+2025-04-13 19:42:40 - update_status.php started
+2025-04-13 19:42:40 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-13 19:42:40 - Fetching statuses
+2025-04-13 19:43:02 - update_status.php started
+2025-04-13 19:43:02 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-13 19:43:02 - Processing POST
+2025-04-13 19:43:02 - Fetched 11 users for SMS
+2025-04-13 19:43:02 - Updated ID 1 to Offline
+2025-04-13 19:43:02 - SMS sent to 233559118581 for AutoPayla 1
+2025-04-13 19:43:02 - SMS sent to 233559118581 for AutoPayla 1
+2025-04-13 19:43:03 - SMS sent to 233248113398 for AutoPayla 1
+2025-04-13 19:43:03 - SMS sent to 233551309491 for AutoPayla 1
+2025-04-13 19:43:03 - SMS sent to 233598061030 for AutoPayla 1
+2025-04-13 19:43:04 - SMS sent to 233553876442 for AutoPayla 1
+2025-04-13 19:43:04 - SMS sent to 233592314356 for AutoPayla 1
+2025-04-13 19:43:04 - SMS sent to 233241375969 for AutoPayla 1
+2025-04-13 19:43:05 - SMS sent to 233247735208 for AutoPayla 1
+2025-04-13 19:43:05 - SMS sent to 233502148849 for AutoPayla 1
+2025-04-13 19:43:06 - SMS sent to 233596877302 for AutoPayla 1
+2025-04-13 19:43:06 - No status change for ID 2 (Backend)
+2025-04-13 19:43:06 - No status change for ID 3 (Payment Methods)
+2025-04-13 19:43:06 - No status change for ID 4 (SMS Service)
+2025-04-13 19:43:06 - No status change for ID 5 (API Service)
+2025-04-13 19:43:06 - No status change for ID 6 (Website)
+2025-04-13 19:43:06 - No status change for ID 7 (Database Cache)
+2025-04-13 19:43:06 - Fetching statuses
+2025-04-14 03:01:00 - update_status.php started
+2025-04-14 03:01:00 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-14 03:01:00 - Fetching statuses
+2025-04-14 03:01:07 - update_status.php started
+2025-04-14 03:01:07 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-14 03:01:07 - Fetching statuses
+2025-04-14 03:01:40 - update_status.php started
+2025-04-14 03:01:40 - Session: Array
+(
+    [user_id] => 1
+    [email] => ixy.chase@gmail.com
+    [is_admin] => 1
+)
+
+2025-04-14 03:01:40 - Processing POST
+2025-04-14 03:01:40 - Fetched 11 users for SMS
+2025-04-14 03:01:40 - Updated ID 1 to Online
+2025-04-14 03:01:40 - SMS sent to 233559118581 for AutoPayla 1
+2025-04-14 03:01:41 - SMS sent to 233559118581 for AutoPayla 1
+2025-04-14 03:01:41 - SMS sent to 233248113398 for AutoPayla 1
+2025-04-14 03:01:42 - SMS sent to 233551309491 for AutoPayla 1
+2025-04-14 03:01:42 - SMS sent to 233598061030 for AutoPayla 1
+2025-04-14 03:01:42 - SMS sent to 233553876442 for AutoPayla 1
+2025-04-14 03:01:43 - SMS sent to 233592314356 for AutoPayla 1
+2025-04-14 03:01:43 - SMS sent to 233241375969 for AutoPayla 1
+2025-04-14 03:01:43 - SMS sent to 233247735208 for AutoPayla 1
+2025-04-14 03:01:44 - SMS sent to 233502148849 for AutoPayla 1
+2025-04-14 03:01:44 - SMS sent to 233596877302 for AutoPayla 1
+2025-04-14 03:01:44 - No status change for ID 2 (Backend)
+2025-04-14 03:01:44 - No status change for ID 3 (Payment Methods)
+2025-04-14 03:01:44 - No status change for ID 4 (SMS Service)
+2025-04-14 03:01:44 - No status change for ID 5 (API Service)
+2025-04-14 03:01:44 - No status change for ID 6 (Website)
+2025-04-14 03:01:44 - No status change for ID 7 (Database Cache)
+2025-04-14 03:01:44 - Fetching statuses
+2025-04-14 18:43:37 - update_status.php started
+2025-04-14 18:43:37 - Not logged in, redirecting to login.php
